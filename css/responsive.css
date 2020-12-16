@@ -1,0 +1,473 @@
+
+
+@media (min-width: 320px) and (max-width: 575px) {
+    .one{
+        display: none;
+    }
+    .two{
+        display: block;
+    }
+    .last{
+        margin-bottom: 30px;
+    }
+
+
+
+
+
+    header .top-header .price-txt-inner {
+        text-align: center;
+        padding: 5px 0px;
+    }
+    header .nav-inner ul{
+        justify-content: center !important;
+    }
+    header .top-header .nav-inner .nav-item .nav-link {
+        font-size: 13px;
+    }
+    .banner-section .banner-inner h2 {
+        font-size: 34px;
+        margin-bottom: 35px;
+    }
+    .banner-section .banner-inner-2 {
+        padding: 0px 0px 17px;
+    }
+    .banner-section .banner-inner-2 h5 {
+        font-size: 20px;
+    }
+    .banner-section .banner-inner-2 h6 {
+        font-size: 14px;
+    }
+    .feature-section .feature-inner {
+        margin-bottom: 40px;
+    }
+    .feature-section {
+        padding: 50px 0px;
+    }
+    .service-section .service-inner p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .steps-section .steps-img-inner {
+        margin-bottom: 45px;
+    }
+    .heading {
+        font-size: 22px;
+    }
+    .steps-section {
+        padding-bottom: 80px;
+    }
+    .steps-section .wallet-inner {
+        /* margin-bottom: 50px; */
+        margin-top: 30px;
+    }
+    .steps-section span {
+        margin-left: 12px;
+    }
+    .spider-section .spider-box span{
+        display: block;
+        width: 50px;
+        height: 50px;
+        position: relative;
+        line-height: 50px;
+        font-size: 20px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .spider-section .spider-box span::after{
+      content: "";
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      border: 3px solid ;
+      border-radius: 10px;
+      transform: rotate(45deg);
+      top: 0;
+      left: 0;
+    }
+    .spider-section .top{
+      top: 11%;
+    }
+    .spider-section .spider-box b {
+        font-size: 12px;
+    }
+    .spider-section .middle{
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    .spider-section.bottom{
+      bottom: 0;
+    }
+    .spider-section .left{
+      left: 0;
+    }
+    .spider-section .right{
+      right: 0%;
+    }
+    .spider-section .middle.left{
+      left: -80px;
+    }
+    .counter-section .counter-text-inner h5 {
+        font-size: 14px;
+    }
+    .counter-section .counter-text-inner h3 {
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+    .counter-section {
+        padding: 30px 0px;
+    }
+    .spider-section .spider-box span {
+        display: block;
+        width: 40px;
+        height: 39px;
+        position: relative;
+        line-height: 39px;
+        font-size: 15px;
+        margin: auto;
+        margin-bottom: 6px;
+    }
+    .spider-section {
+        padding: 20px 0px;
+    }
+    .experts-section .experts-inner p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .experts-section .experts {
+        margin: 40px 0px;
+    }
+    .blogs-section .blogs-header p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .blogs-section .card {
+        border-radius: 12px;
+        margin-bottom: 30px;
+    }
+    
+    .feedback-section .client-pic span {
+        right: 40.2%;
+        bottom: 2%;
+    }
+    footer .footer-inner {
+        margin-bottom: 40px;
+    }
+    footer .footer-txt-inner {
+        margin-bottom: 40px;
+    }
+    footer {
+        padding: 60px 0px 0px;
+    }
+    footer .bottom-section li {
+        padding: 20px 0px 0px;
+    }
+    footer .bottom-section ul {
+        justify-content: center!important;
+    }
+    footer .bottom-section p {
+        text-align: center;
+        padding: 20px 0px;
+    }
+    .spider-section .spider-inner img {
+        width: 40%;
+    }
+    .spider-section .right {
+        right: 7%;
+    }
+    .spider-section .left {
+        left: 7%;
+    }
+    .spider-section .middle.right {
+        right: -12px;
+    }
+    .spider-section .middle.left {
+        left: -12px;
+    }
+    .feature-section {
+        padding: 50px 10px;
+    }
+    .service-section {
+        padding: 0px 15px;
+    }
+    .bitcoin-section {
+        padding: 80px 15px;
+    }
+    .steps-section {
+        /* padding-bottom: 80px; */
+        padding: 80px 15px;
+    }
+    .counter-section {
+        padding: 30px 10px;
+    }
+    .spider-section {
+        padding: 20px 2px 20px 0px;
+        margin-left: -8px;
+    }
+    .experts-section {
+        padding: 0px 15px;
+    }
+    .contact-section {
+        padding: 80px 10px;
+    }
+    .blogs-section {
+        padding: 60px 10px;
+    }
+    .top-section{
+        padding: 0px 10px;
+    }
+    .feedback-section .carousel-item p {
+        max-width: 70%;
+        margin: auto;
+    }
+    .feedback-section .client-pic {
+        margin-top: 35px;
+    }
+    footer .bottom-section {
+        background: #000000;
+        margin-top: 20px;
+    }
+    footer .bottom-section a {
+        font-size: 12px;
+    }
+    header .bottom-header .navbar {
+        padding: 26px 10px;
+    }
+    .banner-section .banner-inner h2 {
+        padding: 0px 20px;
+    }
+    .banner-section .banner-inner h2 {
+        margin-top: 30px;
+    }
+    header .bottom-header .navbar {
+        padding: 15px 10px;
+    }
+    .feedback-section .feedback-header h3 {
+        padding: 0px 10px 40px;
+    }
+    .blogs-section {
+        padding: 60px 10px 40px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    header .top-header .price-txt-inner {
+        text-align: center;
+        padding: 5px 0px;
+    }
+    header .nav-inner ul{
+        justify-content: center !important;
+    }
+    header .top-header .nav-inner .nav-item .nav-link {
+        font-size: 13px;
+    }
+    .banner-section .banner-inner h2 {
+        font-size: 28px;
+    }
+    .banner-section .banner-inner-2 {
+        padding: 20px 0px;
+    }
+    .banner-section .banner-inner-2 h5 {
+        font-size: 16px;
+    }
+    .banner-section .banner-inner-2 h6 {
+        font-size: 14px;
+    }
+    .feature-section .feature-inner {
+        margin-bottom: 40px;
+    }
+    .feature-section {
+        padding: 50px 0px;
+    }
+    .service-section .service-inner p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .steps-section .steps-img-inner {
+        margin-bottom: 45px;
+    }
+    .heading {
+        font-size: 22px;
+    }
+    .steps-section {
+        padding-bottom: 80px;
+    }
+    .counter-section .counter-text-inner h5 {
+        font-size: 14px;
+    }
+    .counter-section .counter-text-inner h3 {
+        font-size: 42px;
+        margin-bottom: 15px;
+    }
+    .counter-section {
+        padding: 30px 0px;
+    }
+    .spider-section .spider-box b {
+        font-size: 14px;
+    }
+    .spider-section .spider-box span {
+        display: block;
+        width: 40px;
+        height: 39px;
+        position: relative;
+        line-height: 39px;
+        font-size: 15px;
+        margin: auto;
+        margin-bottom: 13px;
+    }
+    .experts-section .experts-inner p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .spider-section {
+        padding: 60px 0px;
+    }
+    .experts-section .experts {
+        margin: 40px 0px;
+    }
+    .blogs-section .blogs-header p {
+        padding: 0px 0%;
+        padding-bottom: 30px;
+    }
+    .blogs-section .card {
+        border-radius: 12px;
+        margin-bottom: 30px;
+    }
+    .blogs-section {
+        padding: 60px 0px;
+    }
+    .feedback-section .client-pic span {
+        right: 40.2%;
+        bottom: 2%;
+    }
+    footer .footer-inner {
+        margin-bottom: 40px;
+    }
+    footer .footer-txt-inner {
+        margin-bottom: 40px;
+    }
+    footer {
+        padding: 60px 0px 0px;
+    }
+    footer .bottom-section li {
+        padding: 20px 0px 0px;
+    }
+    footer .bottom-section ul {
+        justify-content: center!important;
+    }
+    footer .bottom-section p {
+        text-align: center;
+        padding: 20px 0px;
+    }
+    .spider-section .spider-inner img {
+        width: 50%;
+    }
+    .spider-section .right {
+        right: 5%;
+    }
+    .spider-section .left {
+        left: 5%;
+    }
+    .spider-section .middle.right {
+        right: -30px;
+    }
+    .spider-section .middle.left {
+        left: -30px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    header .top-header .nav-inner .nav-item .nav-link {
+        font-size: 12px;
+    }
+    .banner-section .banner-inner h2 {
+        font-size: 28px;
+    }
+    .banner-section .banner-inner-2 {
+        padding: 20px 0px;
+    }
+    .banner-section .banner-inner-2 h5 {
+        font-size: 16px;
+    }
+    .banner-section .banner-inner-2 h6 {
+        font-size: 14px;
+    }
+    .steps-section .steps-img-inner .img-one {
+        height: fit-content;
+    }
+    .s-inner {
+        margin-top: 35px;
+    }
+    .steps-section .wallet-inner {
+        margin-left: 25px;
+    }
+    .steps-section .wallet-inner h5 {
+        margin-bottom: 5px;
+    }
+    .spider-section .right {
+        right: -15%;
+    }
+    .spider-section .left {
+        left: -15%;
+    }
+    .spider-section .middle.right {
+        right: -43%;
+    }
+    .spider-section .middle.left {
+        left: -41%;
+    }
+    .feedback-section .client-pic span {
+        right: 42.2%;
+        bottom: 23%;
+    }
+    footer .footer-txt-inner h4 {
+        font-size: 22px;
+    }
+    footer .footer-txt-inner-2 h4 {
+        font-size: 22px;
+    }
+    footer .footer-inner ul li a {
+        margin-bottom: 10px;
+    }
+    footer .bottom-section a {
+        font-size: 11px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    header .bottom-header .navbar .nav-item a {
+        font-size: 13px;
+        margin-left: 11px;;
+    }
+    .banner-section .banner-inner h2 {
+        font-size: 42px;
+    }
+    .banner-section .banner-inner-2 {
+        padding: 28px 0px;
+    }
+    .steps-section .wallet-inner {
+        padding-left: 10px;
+    }
+    .spider-section .middle.left {
+        left: -110px;
+    }
+    .spider-section .middle.right {
+        right: -110px;
+    }
+    .feedback-section .client-pic span {
+        right: 44.2%;
+        bottom: 26%;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    header .bottom-header .navbar .nav-item a {
+        font-size: 13px;
+    }
+}
+
+
+@media (min-width: 1400px) {}
